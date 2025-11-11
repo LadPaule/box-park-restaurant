@@ -103,33 +103,6 @@ Body Text: Poppins (300, 400, 700 weights)
 
 Accent Text: Permanent Marker (brand elements)
 
-📁 Project Structure
-text
-box-park-restaurant/
-│
-├── index.html              # Main homepage
-├── about.html              # About us page
-├── service_page.html       # Services showcase
-├── team_members.html       # Team information
-│
-├── assets/
-│   ├── logo.png           # Brand logo
-│   ├── hero.jpg           # Main hero image
-│   ├── side.avif          # Restaurant interior
-│   ├── 1.png              # Menu item images
-│   ├── 2.jpg
-│   ├── 4.jpg
-│   └── seo/               # SEO assets
-│       ├── apple-touch-icon.png
-│       ├── favicon-32x32.png
-│       ├── favicon-16x16.png
-│       └── site.webmanifest
-│
-├── styles/
-│   └── box_park.css       # Main stylesheet
-│
-└── scripts/
-    └── box_park.js        # JavaScript functionality
 🚀 Getting Started
 Prerequisites
 Modern web browser (Chrome, Firefox, Safari, Edge)
